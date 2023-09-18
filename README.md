@@ -32,6 +32,6 @@ This project is a MERN (MongoDB, Express.js, React, Node.js) based social media 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mern-social-media-app.git
+   https://github.com/Rishikeshghosh/MERN-SOCIAL-MEDIA-APP.git
    cd mern-social-media-app
 
